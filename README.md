@@ -6,11 +6,12 @@ deberá ser documentado en un fichero README.MD de un repositorio de github.
 
 ## 1 ¿QUE ES?
 
--DOCKER:
+-DOCKER:Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.
 
--NGINX:
+-NGINX: (pronunciado en inglés «ényin-ex», /ˈɛndʒɪn-ɛks/)2​ es un servidor web/proxy inverso ligero de alto rendimiento y un proxy para protocolos de correo electrónico
 
 ## 2 INSTALACIÓN
+
 Iniciamos nuestro terminal de linux nos autenticamos como usuario administrador o superusuario y una vez hecho, hacemos un "docker pull nginx" para descargarnos el contenedor de nginx. tal y como se informa en la siguiente imagen.
 
 <img src="https://i.gyazo.com/ecf5f02f3f7f5081520a3358be307cfe.png">
